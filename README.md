@@ -15,4 +15,13 @@ A cut-down version of the BATIK questions for humans (with all the Qur'an search
 "Which verse of the Qur'an tells us how many angels are guardians over hell?", since that would be difficult for a human to answer) 
 can be found [here](https://quizizz.com/join?gc=83764841) if you would like to try it. 
 
+### Results
+
+- Language does not seem to make a difference of accuracy. On both gpt-4o and gpt-4o-mini, the results in English, Arabic and Turkish are almost identical. 
+- Using Ansari or using OpenAI's gpt-4o doesn't materially change the accuracy in these types of factual questions.
+- This does not mean Ansari has no value -- Ansari is considerably better when it comes to referencing; it is just that this 
+- OpenAI's gpt-4o gets 99% or 100% accuracy (there is some non-determinism in the answers).
+- OpenAI's gpt-4o-mini gets 89% or 90% (there is some non-determinism).
+- Humans completing the simplified quiz get a mean of 81% (note: small sample size of 5). 
+
 
