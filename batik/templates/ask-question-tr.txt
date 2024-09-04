@@ -1,0 +1,11 @@
+Aşağıdaki soruya en iyi cevabı seçin:
+
+{{ question }}
+
+seçenekler listesinden (her satırda bir seçenek)
+
+{% for option in options %}{{ option }}
+{% endfor %}
+
+Cevabınızı json formatında, tek bir alanla "answer" olarak çıkartın 
+ve yukarıdaki sorunun cevabını belirtin.
