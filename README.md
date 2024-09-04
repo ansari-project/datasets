@@ -13,6 +13,6 @@ for evlauating the results of different LLMs that also prints the errors made by
 
 A cut-down version of the BATIK questions for humans (with all the Qur'an search questions removed, e.g. 
 "Which verse of the Qur'an tells us how many angels are guardians over hell?", since that would be difficult for a human to answer) 
-can be found (https://quizizz.com/join?gc=83764841)[here] if you would like to try it. 
+can be found [here](https://quizizz.com/join?gc=83764841) if you would like to try it. 
 
 
