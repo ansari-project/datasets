@@ -24,4 +24,6 @@ can be found [here](https://quizizz.com/join?gc=83764841) if you would like to t
 - OpenAI's gpt-4o-mini gets 89% or 90% (there is some non-determinism).
 - Humans completing the simplified quiz get a mean of 81% (note: small sample size of 5). 
 
+### Special Thanks
+We would like to thank Ashraf Haress for translating the questions into Arabic and Turkish. 
 
